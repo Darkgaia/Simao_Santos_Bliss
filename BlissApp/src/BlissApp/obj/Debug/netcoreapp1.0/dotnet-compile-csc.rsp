@@ -173,6 +173,6 @@
 -resource:"c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\obj\Debug\netcoreapp1.0\BlissAppdotnet-compile.deps.json",BlissApp.deps.json
 "c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\Program.cs"
 "c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\Startup.cs"
+"c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\Controllers\QuestionsController.cs"
 "c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\Controllers\ServerStatusController.cs"
-"c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\Controllers\ValuesController.cs"
 "c:\Users\simao\OneDrive\documentos\visual studio 2015\Projects\BlissApp\src\BlissApp\Model\ServerStatus.cs"
