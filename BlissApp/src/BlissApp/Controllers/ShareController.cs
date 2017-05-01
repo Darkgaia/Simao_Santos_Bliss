@@ -21,7 +21,7 @@ namespace BlissApp.Controllers
             MimeMessage message = new MimeMessage();
             message.From.Add(new MailboxAddress("Teste Email", "ad2w1et2h@hotmail.com"));
             message.To.Add(new MailboxAddress("Simon Santos", dest));
-            message.Subject = "Teste";
+            message.Subject = "Share Link";
             message.Body = new TextPart("plain")
             {
                 Text = content
